@@ -2,7 +2,7 @@
 
 There is just one run_analysis.R code that does all that is needed to prepare the tidy data set for this project.
 
-This repo explains how the script for the project work.
+This repo explains how the script works.
 
 There is just one run_analysis.R code that does all that is needed to prepare the tidy data set for this project.
 
